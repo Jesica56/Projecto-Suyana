@@ -31,7 +31,7 @@ El bosque, silenciado por la deforestación y el olvido, espera su renacer. Asum
 <li> <strong>Género:</strong> Plataformas 2D de Aventura y Puzzles.</li> 
 <li><strong>Motor:</strong> Godot 4.5.1</li> 
 <li> <strong>Tono:</strong> Poético, mágico y restaurativo.</li> 
-<li> <strong>Estética Visual:</strong> Ilustración digital 2D vibrante, con una clara influencia de <strong>Studio Ghibli</strong>strong> y una ambientación fiel a los paisajes del <strong>Noroeste Argentino (NOA)</strong>.</li> 
+<li> <strong>Estética Visual:</strong> Ilustración digital 2D vibrante, con una clara influencia de <strong>Studio Ghibli</strong> y una ambientación fiel a los paisajes del <strong>Noroeste Argentino (NOA)</strong>.</li> 
 </ul>
 
 ---
