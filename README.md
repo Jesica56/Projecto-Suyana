@@ -44,7 +44,7 @@ El bosque, silenciado por la deforestación y el olvido, espera su renacer. Asum
 
 | Carpeta | Propósito |
 | :--- | :--- |
-| **`/docs`** | Contiene el Guion, la Historia completa (`Historia_La_Cancion_del_Renacer.md`) y la Ficha de Personajes. **(¡Revisa aquí primero!)** |
+| **`/docs`** | Contiene el Guion, la Historia completa y la Ficha de Personajes. **(¡Revisa aquí primero!)** |
 | **`/game-design`** | Documentos detallando las mecánicas principales, diseño de niveles y conceptos de audio. |
 | **`/assets`** | Arte conceptual, *mockups* visuales, y *wireframes* de UI. |
 | **`/code`** | Archivos del motor Godot (4.x) y prototipos funcionales. |
