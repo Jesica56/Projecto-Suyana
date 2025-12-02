@@ -1,89 +1,108 @@
-Guion de Progresión: Actos y Mecánicas
-Acto I – El Silencio del Bosque
-“El bosque calló… pero una semilla aún sueña.”
+# Guion de Progresión: Actos y Mecánicas
 
-Ambientación: Bosque gris, cenizas flotando, árboles petrificados.
+## Acto I – El Silencio del Bosque
+> *“El bosque calló… pero una semilla aún sueña.”*
 
-Objetivo Narrativo: Despertar el espíritu de Suyana y aprender a usar su flauta.
+**Ambientación:** Bosque gris, cenizas flotando, árboles petrificados.  
+**Objetivo Narrativo:** Despertar el espíritu de Suyana y aprender a usar su flauta.
 
-Mecánica Principal:
+### Mecánica Principal
+- Aprender a soplar notas básicas que restauran pequeñas zonas.  
+- Purificar zonas al ritmo del viento o la música.
 
-Aprender a soplar notas básicas que restauran pequeñas zonas.
+### Aliado
+- **Tika**, la Cotorra Guardiana.
 
-El jugador “purifica” zonas al ritmo del viento o la música.
+### Mini Jefe
+- **Sombras del Olvido**, masa oscura que absorbe sonido.
 
-Aliado: Tika, la Cotorra Guardiana. Enseña los primeros sonidos y ayuda a encontrar zonas ocultas.
+### Clímax
+- Restaurar el primer **Corazón del Bosque** con una melodía completa.
 
-Mini Jefe: Sombras del Olvido — una masa oscura que absorbe sonido y bloquea el paso.
+---
 
-Clímax: Lograr el primer "Corazón del Bosque" (un gran árbol restaurado) con una melodía completa.
+## Acto II – Las Raíces Dormidas
+> *“Bajo la tierra, la vida aún recuerda su canción.”*
 
-Acto II – Las Raíces Dormidas
-“Bajo la tierra, la vida aún recuerda su canción.”
+**Ambientación:** Cavernas de raíces, hongos luminosos y agua subterránea.  
+**Objetivo Narrativo:** Aprender la Paciencia y la Profundidad del sonido.
 
-Ambientación: Cavernas llenas de raíces, hongos luminosos y corrientes de agua subterránea.
+### Aliado
+- **Anka**, el Perezoso Sabio.
 
-Objetivo Narrativo: Aprender la Paciencia y Profundidad del sonido para mover la tierra.
+### Mecánica Nueva
+- Notas graves que hacen crecer raíces o abren caminos.  
+- Acertijos musicales: frecuencia, eco y secuencias.
 
-Aliado: Anka, el Perezoso Sabio. Enseña la paciencia, el ritmo y los cantos lentos.
+### Enemigo
+- **La Máquina Gris**, restos de tala que se mueven como golems oxidados.
 
-Mecánica Nueva:
+### Clímax
+- Restaurar el **Río Subterráneo**.
 
-Notas graves que hacen crecer raíces o abren caminos ocultos.
+---
 
-Resolver acertijos musicales (frecuencia, eco, secuencias).
+## Acto III – El Fuego Errante
+> *“Las llamas no son maldad, solo energía sin control.”*
 
-Enemigo: La Máquina Gris, restos de tala que se mueven como golems oxidados.
+**Ambientación:** Cerros volcánicos, brasas y viento seco.  
+**Objetivo Narrativo:** Controlar fuerzas naturales a través del soplo.
 
-Clímax: Restaurar el Río Subterráneo, devolviendo el flujo vital a la superficie (la música desata una gran cascada de vida).
+### Aliado
+- **Wayra**, Espíritu Mayor del Viento.
 
-Acto III – El Fuego Errante
-“Las llamas no son maldad, solo energía sin control.”
+### Mecánica Nueva
+- Control de corrientes de aire.  
+- Canciones que apagan o transforman llamas en luz.
 
-Ambientación: Cerros volcánicos, brasas, ceniza flotante, viento seco.
+### Jefe
+- **Fuego Errante**, criatura ígnea que ruge por dolor.
 
-Objetivo Narrativo: Aprender a Dirigir y Controlar las fuerzas de la naturaleza a través del soplo.
+### Clímax
+- Melodía de Serenidad que calma al Fuego Errante.
 
-Aliado: Wayra, el Espíritu Mayor del Viento. Aparece para guiar los soplos largos.
+---
 
-Mecánica Nueva:
+## Acto IV – El Silencio
+> *“No hay ruido, no hay color... Solo la memoria de la canción.”*
 
-Controlar corrientes de aire, redirigir fuego para purificarlo.
+**Ambientación:** Mundo blanco, sin textura ni eco.  
+**Objetivo Narrativo:** Recordar la música sin apoyo visual o auditivo.
 
-Canciones que apagan o transforman las llamas en luz.
+### Mecánica Especial
+- El jugador recuerda melodías aprendidas sin guía.
 
-Jefe: Fuego Errante, una criatura ígnea que ruge con dolor, no con odio.
+### Jefe Final
+- **El Silencio**, sombra que absorbe color y sonido.
 
-Clímax: Suyana toca una melodía de Serenidad. El Fuego Errante se calma y se convierte en una fuente de calor vital, esencial para la germinación final del bosque.
+### Clímax
+- Combate rítmico-espiritual: cada nota correcta trae color de vuelta.  
+- Suyana ejecuta la **Melodía Completa del Bosque**.
 
-Acto IV – El Silencio
-“No hay ruido, no hay color... Solo la memoria de la canción.”
+---
 
-Ambientación: Mundo blanco y sin textura. No hay música, ni eco.
+## Acto V – El Renacer (Epílogo y Misión Global)
+> *“El bosque respira otra vez.”*
 
-Objetivo Narrativo: Superar la desesperanza y demostrar que la música del bosque reside en la memoria del espíritu.
+**Ambientación:** Valles verdes de Salta.  
+**Objetivo Narrativo:** Confirmar la restauración y abrir nueva misión global.
 
-Mecánica Especial: El jugador debe recordar las melodías aprendidas sin guía visual ni auditiva.
+### Mecánica Principal y Desarrollo
 
-Jefe Final: El Silencio, sombra intangible que absorbe los colores y el sonido.
+#### Juego Libre y Conexión
+- Mecánica: **Escuchar y Tejer** (interpretar el Canto del Ecosistema).
 
-Clímax: Combate Rítmico-Espiritual. Cada nota ejecutada correctamente por el jugador trae color y sonido de vuelta. Suyana toca la Melodía Completa del Bosque, uniendo el viento, la raíz y el fuego.
+#### Soplos Maestros
+- **Soplo Maestro**  
+- **Raíz Maestra**  
+- **Ritmo Maestro**
 
-Acto V – El Renacer (Epílogo y Misión Global)
-“El bosque respira otra vez.”
+#### El Ritual de la Semilla
+- Suyana crea una **Semilla de Luz** en el Corazón del Bosque.
 
-Ambientación: Valles verdes de Salta, el bosque floreciendo en tiempo real.
+### La Nueva Misión
+- Existen “silencios lejanos” en otros ecosistemas.  
+- Suyana, Tika y Anka comienzan un viaje global.
 
-Objetivo Narrativo: Demostrar que la armonía se ha restaurado y establecer que el problema del Silencio es una amenaza cíclica y global.
-
-Mecánica Principal y Desarrollo:
-
-Juego Libre y Conexión: El jugador recorre el mundo. La mecánica principal es "Escuchar y Tejer" (Escuchar el Canto del Ecosistema).
-
-Soplos Maestros: Los aliados entregan las versiones finales y potenciadas de las habilidades (Soplo Maestro, Raíz Maestra, Ritmo Maestro).
-
-El Ritual de la Semilla: Suyana toca la última melodía poderosa en el Corazón del Bosque. Parte de su energía se condensa en una Semilla de Luz que vuelve a la tierra.
-
-La Nueva Misión: Wayra revela que hay "silencios lejanos" en otros ecosistemas. Suyana, Tika y Anka se comprometen a iniciar un nuevo viaje global.
-
-Línea Final de Suyana: "La canción de la tierra no termina aquí. Mi flauta debe viajar donde la esperanza ha quedado dormida. Que el viento me guíe."
+### Línea Final de Suyana
+> *“La canción de la tierra no termina aquí. Mi flauta debe viajar donde la esperanza ha quedado dormida. Que el viento me guíe.”*
