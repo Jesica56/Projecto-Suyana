@@ -43,7 +43,7 @@
 <h3>Apariencia y Símbolos</h3>
 <img src="/docs/personajes para fichas/Una-peque-a-cotorra-parrotlet-en-una-pose-de-alert-max-px-36.png" alt="" width="450"/>
 <ul>
-    <li><strong>Descripción:</strong> Cotorra de colores vivos (verde esmeralda con toques amarillos). Sus ojos son curiosos y vivaces, siempre revoloteando.</li>
+    <li><strong>Descripción:</strong> Cotorra de colores vivos. Sus ojos son curiosos y vivaces, siempre revoloteando.</li>
     <li><strong>Habilidad:</strong> Su llamado agudo (<strong>Alerta</strong>) avisa sobre los peligros y marca la dirección más rápida.</li>
 </ul>
 
