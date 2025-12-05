@@ -14,7 +14,7 @@
 </ul>
 
 <h3>Apariencia y Símbolos</h3>
-<p><code>/docs/personajes para fichas/Esp-ritu-de-fuego-felino.png</code></p>
+<img src="/docs/personajes para fichas/Esp-ritu-de-fuego-felino.png" alt="" width="450"/>
 <ul>
     <li><strong>Descripción:</strong> Una criatura ígnea, hecha de brasas y llamas que se mueven caóticamente. No irradia calor vital, sino dolor abrasador.</li>
     <li><strong>Amenaza:</strong> Ataques de área que consumen el entorno (mecánica de <strong>calor sin control</strong>).</li>
@@ -40,7 +40,8 @@
 </ul>
 
 <h3>Apariencia y Símbolos</h3>
-<p><code>/docs/personajes para fichas/A-2D-stylized-sprite-of-a-lumbering-golem-construc-max-px-36.png</code></p>
+<img src="/docs/personajes para fichas/A-2D-stylized-sprite-of-a-lumbering-golem-construc-max-px-36.png" alt="" width="450"/>
+
 <ul>
     <li><strong>Descripción:</strong> Un golem o espectro de metal oxidado y cuchillas desafiladas. Carece de cualquier forma natural o curva.</li>
     <li><strong>Amenaza:</strong> Su ataque es el corte y la rigidez. Solo puede ser detenido por la <strong>vibración constante</strong> de la tierra.</li>
@@ -66,7 +67,8 @@
 </ul>
 
 <h3>Apariencia y Símbolos</h3>
-<p><code>/docs/personajes para fichas/Minimalist-2D-sprite-of-a-spiritual-deer.png</code></p>
+<img src="/docs/personajes para fichas/Minimalist-2D-sprite-of-a-spiritual-deer.png" alt="" width="450"/>
+
 <ul>
     <li><strong>Descripción:</strong> Una sombra intangible que absorbe el color y el sonido de su entorno, dejando un mundo blanco y sin eco a su paso.</li>
     <li><strong>Amenaza:</strong> Su poder radica en hacer dudar a Suyana, obligándola a <strong>recordar la música sin guía visual ni auditiva</strong>.</li>
@@ -90,8 +92,7 @@
     <li><strong>Elemento:</strong> Ceniza / Absorción.</li>
     <li><strong>Voz:</strong> Sonido gutural, absorbente, <em>SHHH</em>.</li>
 </ul>
-
-<p><code>/docs/personajes para fichas/A-2D-magical-soft-and-mysterious-sprite-of-a-small-max-px-36.png</code></p>
+<img src="/docs/personajes para fichas/A-2D-magical-soft-and-mysterious-sprite-of-a-small-max-px-36.png" alt="" width="450"/>
 
 <h3>Función en el Juego</h3>
 <p>
