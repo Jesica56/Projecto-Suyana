@@ -1,0 +1,46 @@
+[gd_scene load_steps=6 format=3 uid="uid://dcd0gv3kv6j8u"]
+
+[ext_resource type="Script" uid="uid://bb4ig3p8iyf65" path="res://suyana.gd" id="1_7h1f5"]
+[ext_resource type="Texture2D" uid="uid://bs0hpptqu2nx" path="res://img/suyana/pasos.png" id="1_yf7y8"]
+[ext_resource type="Texture2D" uid="uid://c52xx3pj3bc1x" path="res://img/suyana/sorpresa.png" id="2_7h1f5"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_adcwp"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_yf7y8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_7h1f5")
+}],
+"loop": true,
+"name": &"caminar",
+"speed": 5.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_vcdrn"]
+radius = 45.0
+height = 198.0
+
+[node name="Suyana" type="CharacterBody2D"]
+script = ExtResource("1_7h1f5")
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(108, 538)
+scale = Vector2(0.21419269, 0.27604163)
+sprite_frames = SubResource("SpriteFrames_adcwp")
+animation = &"caminar"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(107, 532)
+shape = SubResource("CapsuleShape2D_vcdrn")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(576, 325)
+limit_left = 0
+limit_top = 0
+limit_right = 5360
+limit_bottom = 630
+
+[node name="PointLight2D" type="PointLight2D" parent="."]
+energy = 4.0

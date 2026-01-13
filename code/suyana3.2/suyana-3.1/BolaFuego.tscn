@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://bmqudttln0ah5"]
+
+[ext_resource type="Texture2D" uid="uid://brsfxp2g831qy" path="res://img/elementos/esferafuego.png" id="1_aufrd"]
+[ext_resource type="Script" uid="uid://btv6vcgholxix" path="res://bola_fuego.gd" id="1_q4pxm"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_q4pxm"]
+radius = 89.1852
+
+[node name="Area2D" type="Area2D"]
+script = ExtResource("1_q4pxm")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_aufrd")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(5, 14)
+shape = SubResource("CircleShape2D_q4pxm")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
